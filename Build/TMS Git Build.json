@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Missing Sock",
+"dataUrl": "TMS Git Build.data.unityweb",
+"wasmCodeUrl": "TMS Git Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "TMS Git Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
